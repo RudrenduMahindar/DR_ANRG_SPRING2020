@@ -1,1 +1,2 @@
 # DR_ANRG_SPRING2020
+This repo consists of the python codes and the setup tools guide for developing the software for deployment on IoT testbed nodes. This was completed as a part of my work in directed research at the [Autonomous Networks Research Group](https://anrg.usc.edu/www/) under [Professor Gowri](http://cci.usc.edu/index.php/gowri/) and [Professor Bhaskar](https://viterbi.usc.edu/directory/faculty/Krishnamachari/Bhaskar). 
